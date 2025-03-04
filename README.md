@@ -24,14 +24,6 @@ This standalone Java application allows users to add in-stock items to a shoppin
 
 **How to Run**
 
-**Compile the Java File**
-
 Compile the file: javac NileDotComFall2024.java  
-
-**Run the Program**
-
 Run the file: java NileDotComFall2024  
-
-**Additional Notes**
-
 Review the documentation provided for examples and demonstration of the different features
